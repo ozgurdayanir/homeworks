@@ -1,0 +1,11 @@
+body {
+    background-color: #424649;
+}
+
+.filter-white {
+    filter: invert(99%) sepia(3%) saturate(3%) hue-rotate(201deg) brightness(111%) contrast(100%);
+}
+
+p {
+    color: white;
+}
