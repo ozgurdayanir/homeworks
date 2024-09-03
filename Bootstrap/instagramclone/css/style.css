@@ -50,6 +50,7 @@ input.empty {
 
 body {
   padding: 78px 0;
+  background-color: #ffff ;
 }
 
 nav {
@@ -62,4 +63,9 @@ nav {
 
 .middlearea {
   max-height: 200px !important;
+}
+
+#sticky-sidebar {
+  position: sticky;
+  top: 5rem;
 }
